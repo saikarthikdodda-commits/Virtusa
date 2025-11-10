@@ -1,5 +1,11 @@
 Hi
+<<<<<<< HEAD
 Java
 C
 C++
 Python
+=======
+HTML
+CSS
+JavaScript
+>>>>>>> 5a64e437be9d1414a69d2e9f82d93a242262ce6e
