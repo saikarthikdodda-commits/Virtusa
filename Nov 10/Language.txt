@@ -1,5 +1,4 @@
 Hi
-Java
-C
-C++
-Python
+HTML
+CSS
+JavaScript
